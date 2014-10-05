@@ -1,4 +1,4 @@
-clojure-maser
+clojure-master
 =============
 
 Clojure Gallery Web Application
